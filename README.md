@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi
+<h1>Hi</h1>
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-de-cruz&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-de-cruz&layout=compact&theme=github_dark&hide_border=true">
 </p>
+
+<p>Some cool repos by other people:</p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=StanislavPetrovV&show_owner=true&repo=Python-DOOM">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dbisu&show_owner=true&repo=pico-ducky">
