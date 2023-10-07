@@ -12,4 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi</h1>
+# Hi
+
+![Static Badge](https://img.shields.io/badge/OS-Linux-%23009b9e?style=for-the-badge&logo=Linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Distro-Fedora-%23009b9e?style=for-the-badge&logo=Fedora&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Shell-ZSH-%23009b9e?style=for-the-badge&logo=gnometerminal&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Editor-VS%20Code-%23009b9e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Editor-Neovim-%23009b9e?style=for-the-badge&logo=neovim&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Lang-Python-%23009b9e?style=for-the-badge&logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Lang-Java-%23009b9e?style=for-the-badge&logo=Java&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Lang-Rust-%23009b9e?style=for-the-badge&logo=Rust&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Lang-C-%23009b9e?style=for-the-badge&logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Lang-C++-%23009b9e?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Lang-Javascript-%23009b9e?style=for-the-badge&logo=Javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Web-HTML-%23009b9e?style=for-the-badge&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Web-CSS-%23009b9e?style=for-the-badge&logo=css3&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/DB-PostgreSQL-%23009b9e?style=for-the-badge&logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tool-GIT-%23009b9e?style=for-the-badge&logo=GIT&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tool-GITHUB-%23009b9e?style=for-the-badge&logo=GIThub&logoColor=white)
