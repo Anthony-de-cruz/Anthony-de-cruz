@@ -42,13 +42,15 @@ Here are some ideas to get you started:
 
 ```sh
 ~ > mefetch
- ___   ___    ________       anthony@decruz
-/__/\ /__/\  /_______/\      --------------
-\::\ \\  \ \ \__.::._\/      UPTIME: 20 Years
- \::\/_\ .\ \   \::\ \       MACHINE: Framework 13, Fedora Linux 39
-  \:: ___::\ \  _\::\ \__    WORKFLOW: Neovim, Zsh
-   \: \ \\::\ \/__\::\__/\   WEBSITE: https://anthony-de-cruz.github.io/
-    \__\/ \::\/\________\/   EMAIL: anthonydecruz@proton.me
+                             anthony@decruz
+ ___   ___    ________       --------------
+/__/\ /__/\  /_______/\      STATUS:   Making cool sh!t
+\::\ \\  \ \ \__.::._\/      UPTIME:   20 Years
+ \::\/_\ .\ \   \::\ \       EMAIL:    anthonydecruz@proton.me
+  \:: ___::\ \  _\::\ \__    WEBSITE:  https://anthony-de-cruz.github.io/
+   \: \ \\::\ \/__\::\__/\   SETUP:    Neovim, Tmux, Zsh
+    \__\/ \::\/\________\/   MACHINE:  Framework 13, Fedora Linux 39
+                             BATTERY:  84% [Drinking coffee]
 
 ~ > █
 ```
