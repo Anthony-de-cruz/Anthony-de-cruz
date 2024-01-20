@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi
 
-
+<!--
 ## My Setup
 ![Static Badge](https://img.shields.io/badge/OS-Linux-%23009b9e?style=for-the-badge&logo=Linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Distro-Fedora-%23009b9e?style=for-the-badge&logo=Fedora&logoColor=white)
@@ -38,4 +38,17 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Web-CSS-%23009b9e?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/DB-PostgreSQL-%23009b9e?style=for-the-badge&logo=postgresql&logoColor=white)
+-->
 
+```sh
+~ > mefetch
+ ___   ___    ________       anthony@decruz
+/__/\ /__/\  /_______/\      --------------
+\::\ \\  \ \ \__.::._\/      UPTIME: 20 Years
+ \::\/_\ .\ \   \::\ \       MACHINE: Framework 13", Fedora Linux 39
+  \:: ___::\ \  _\::\ \__    WORKFLOW: Neovim, Zsh
+   \: \ \\::\ \/__\::\__/\   WEBSITE: https://anthony-de-cruz.github.io/
+    \__\/ \::\/\________\/   EMAIL: anthonydecruz@proton.me
+
+~ > █
+```
