@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  ___   ___    ________       anthony@decruz
 /__/\ /__/\  /_______/\      --------------
 \::\ \\  \ \ \__.::._\/      UPTIME: 20 Years
- \::\/_\ .\ \   \::\ \       MACHINE: Framework 13", Fedora Linux 39
+ \::\/_\ .\ \   \::\ \       MACHINE: Framework 13, Fedora Linux 39
   \:: ___::\ \  _\::\ \__    WORKFLOW: Neovim, Zsh
    \: \ \\::\ \/__\::\__/\   WEBSITE: https://anthony-de-cruz.github.io/
     \__\/ \::\/\________\/   EMAIL: anthonydecruz@proton.me
