@@ -45,11 +45,12 @@ Here are some ideas to get you started:
                              anthony@decruz
  ___   ___    ________       --------------
 /__/\ /__/\  /_______/\      STATUS:   Making cool sh!t
-\::\ \\  \ \ \__.::._\/      UPTIME:   20 Years
- \::\/_\ .\ \   \::\ \       EMAIL:    anthonydecruz@proton.me
-  \:: ___::\ \  _\::\ \__    WEBSITE:  https://anthony-de-cruz.github.io/
-   \: \ \\::\ \/__\::\__/\   SETUP:    Neovim, Tmux, Zsh
-    \__\/ \::\/\________\/   MACHINE:  Framework 13, Fedora Linux 39
+\::\ \\  \ \ \__.::._\/      HOST:     UK
+ \::\/_\ .\ \   \::\ \       UPTIME:   20 Years
+  \:: ___::\ \  _\::\ \__    EMAIL:    anthonydecruz@proton.me
+   \: \ \\::\ \/__\::\__/\   WEBSITE:  https://anthony-de-cruz.github.io/
+    \__\/ \::\/\________\/   SETUP:    Neovim, Tmux, Zsh
+                             MACHINE:  Framework 13, Fedora Linux 39
                              BATTERY:  84% [Drinking coffee]
 
 ~ > █
