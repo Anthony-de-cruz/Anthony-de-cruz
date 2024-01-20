@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi
 
 <!--
+# Hi
 ## My Setup
 ![Static Badge](https://img.shields.io/badge/OS-Linux-%23009b9e?style=for-the-badge&logo=Linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Distro-Fedora-%23009b9e?style=for-the-badge&logo=Fedora&logoColor=white)
