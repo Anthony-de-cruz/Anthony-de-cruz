@@ -55,3 +55,6 @@ Here are some ideas to get you started:
 
 ~ > █
 ```
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics">
+</p>
