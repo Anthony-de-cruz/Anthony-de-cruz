@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ~ > mefetch
                              anthony@decruz
  ___   ___    ________       --------------
-/__/\ /__/\  /_______/\      STATUS:   Making cool sh!t
+/__/\ /__/\  /_______/\      STATUS:   Making cool stuff
 \::\ \\  \ \ \__.::._\/      HOST:     UK
  \::\/_\ .\ \   \::\ \       UPTIME:   20 Years
   \:: ___::\ \  _\::\ \__    EMAIL:    anthonydecruz@proton.me
