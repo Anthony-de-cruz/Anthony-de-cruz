@@ -49,8 +49,8 @@ Here are some ideas to get you started:
  \::\/_\ .\ \   \::\ \       UPTIME:   20 Years
   \:: ___::\ \  _\::\ \__    EMAIL:    anthonydecruz@proton.me
    \: \ \\::\ \/__\::\__/\   WEBSITE:  https://anthony-de-cruz.github.io/
-    \__\/ \::\/\________\/   SETUP:    Neovim, Tmux, Zsh
-                             MACHINE:  Framework 13, Fedora Linux 39
+    \__\/ \::\/\________\/   SETUP:    Neovim, Tmux/Zellij, Zsh
+                             MACHINE:  Framework 13, Fedora 39, NixOS 24
                              BATTERY:  84% [Drinking coffee]
 
 ~ > █
