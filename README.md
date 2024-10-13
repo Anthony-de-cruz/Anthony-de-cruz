@@ -44,15 +44,16 @@ Here are some ideas to get you started:
 ~ > mefetch
                              anthony@decruz
  ___   ___    ________       --------------
-/__/\ /__/\  /_______/\      STATUS:   Making cool stuff
-\::\ \\  \ \ \__.::._\/      HOST:     UK
- \::\/_\ .\ \   \::\ \       UPTIME:   20 Years
-  \:: ___::\ \  _\::\ \__    EMAIL:    anthonydecruz@proton.me
-   \: \ \\::\ \/__\::\__/\   WEBSITE:  https://anthony-de-cruz.github.io/
-    \__\/ \::\/\________\/   SETUP:    Neovim, Tmux/Zellij, Zsh
-                             MACHINE:  Framework 13, Fedora 39, NixOS 24
-                             BATTERY:  84% [Drinking coffee]
-
+/__/\ /__/\  /_______/\      STATUS:    Making cool stuff
+\::\ \\  \ \ \__.::._\/      HOST:      UK
+ \::\/_\ .\ \   \::\ \       UPTIME:    20 Years
+  \:: ___::\ \  _\::\ \__    EMAIL:     anthonydecruz@proton.me
+   \: \ \\::\ \/__\::\__/\   WEBSITE:   https://anthony-de-cruz.github.io/
+    \__\/ \::\/\________\/   SETUP:     Neovim, Tmux/Zellij, Zsh
+                             MACHINE:   Framework 13, Fedora 39, NixOS 24
+                             BATTERY:   84% [Drinking coffee]
+                             LANGUAGES: C, C++, C#, Go, Rust, Java,
+                                        Python, JavaScript, Lua
 ~ > █
 ```
 <p align="left">
