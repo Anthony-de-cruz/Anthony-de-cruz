@@ -1,45 +1,3 @@
-<!--
-**Anthony-de-cruz/Anthony-de-cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-# Hi
-## My Setup
-![Static Badge](https://img.shields.io/badge/OS-Linux-%23009b9e?style=for-the-badge&logo=Linux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Distro-Fedora-%23009b9e?style=for-the-badge&logo=Fedora&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Shell-ZSH-%23009b9e?style=for-the-badge&logo=gnometerminal&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/Editor-VS%20Code-%23009b9e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Editor-Neovim-%23009b9e?style=for-the-badge&logo=neovim&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/Tool-GIT-%23009b9e?style=for-the-badge&logo=GIT&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Tool-GITHUB-%23009b9e?style=for-the-badge&logo=GIThub&logoColor=white)
-
-## Things I've Done
-![Static Badge](https://img.shields.io/badge/Lang-Python-%23009b9e?style=for-the-badge&logo=Python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Lang-Java-%23009b9e?style=for-the-badge&logo=Java&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Lang-Rust-%23009b9e?style=for-the-badge&logo=Rust&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Lang-C-%23009b9e?style=for-the-badge&logo=C&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Lang-C++-%23009b9e?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/Lang-Javascript-%23009b9e?style=for-the-badge&logo=Javascript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Web-HTML-%23009b9e?style=for-the-badge&logo=HTML5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Web-CSS-%23009b9e?style=for-the-badge&logo=css3&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/DB-PostgreSQL-%23009b9e?style=for-the-badge&logo=postgresql&logoColor=white)
--->
-
 ```sh
 ~ > mefetch
                              anthony@decruz
@@ -47,13 +5,13 @@ Here are some ideas to get you started:
 /__/\ /__/\  /_______/\      STATUS:    Working @ Leonardo UK - Electronic Warfare
 \::\ \\  \ \ \__.::._\/      HOST:      UK
  \::\/_\ .\ \   \::\ \       UPTIME:    20 Years
-  \:: ___::\ \  _\::\ \__    EMAIL:     anthonydecruz@proton.me
-   \: \ \\::\ \/__\::\__/\   WEBSITE:   https://anthony-de-cruz.github.io/
-    \__\/ \::\/\________\/   SETUP:     Neovim, Tmux, Zsh
-                             MACHINE:   Framework 13, Fedora 39, NixOS 24
+  \:: ___::\ \  _\::\ \__    CONTACT:   anthonydecruz@proton.me
+   \: \ \\::\ \/__\::\__/\   MACHINE:   Framework 13 && I5 1240P ||
+    \__\/ \::\/\________\/              R5 7600X && RX 7800XT +
+                                        Fedora 41 && GNOME 47 +
+                                        Neovim && Tmux && Zsh
                              BATTERY:   84% [Drinking coffee]
-                             LANGUAGES: C, C++, C#, Go, Rust, Java,
-                                        Python, JavaScript, Lua
+                             LANGUAGES: C, C++, C#, Go, Rust, Java, Python, Lua
 ~ > █
 ```
 <p align="left">
