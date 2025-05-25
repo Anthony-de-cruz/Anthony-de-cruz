@@ -11,7 +11,7 @@
                              SETUP:     Fedora 41 && GNOME 47 +
                                         Neovim && Tmux && Zsh
                              BATTERY:   84% [Drinking coffee]
-                             LANGUAGES: C, C++, C#, Go, Rust, Java, Python, Lua
+                             LANGUAGES: C, C++, Zig, Rust, Lua, C#, Java, Python
 ~ > █
 ```
 <p align="left">
