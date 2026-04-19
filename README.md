@@ -4,7 +4,7 @@
  ___   ___    ________       --------------
 /__/\ /__/\  /_______/\      STATUS:    Studying @ University of East Anglia
 \::\ \\  \ \ \__.::._\/      HOST:      UK
- \::\/_\ .\ \   \::\ \       UPTIME:    21 Years
+ \::\/_\ .\ \   \::\ \       UPTIME:    22 Years
   \:: ___::\ \  _\::\ \__    CONTACT:   anthonydecruz@proton.me
    \: \ \\::\ \/__\::\__/\   MACHINE:   Framework 13 / I5 1240P / NixOS
     \__\/ \::\/\________\/              Desktop / R5 7600X, RX 7800XT / Win 11
